@@ -1,0 +1,8 @@
+*.db
+*.exe
+*.log
+uploads/*
+!uploads/.gitkeep
+data/
+debug-*.log
+.env
